@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Gerson's Page"
+tagline:          ''
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://gerson23.github.io
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Gerson Carlos'
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/gerson23/gerson23.github.io
