@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            "Gerson's Page"
-tagline:          ''
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            "Gerson's page"
+tagline:          'A place for (almost) everything'
+description:      'Here I try to place some thoughts, some works, some... thing'
 url:              http://gerson23.github.io
 baseurl:          '/'
 paginate:         5
