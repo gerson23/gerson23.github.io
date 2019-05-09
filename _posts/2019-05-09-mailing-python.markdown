@@ -33,7 +33,7 @@ mail['Subject'] = "Pictures from the party"
 mail.set_content("Hello world!!")
 {% endhighlight%}
 
-With the mail object in our hands we just need to change the sendmessage line in the first snippet to:
+With the mail object in our hands we just need to change the `sendmail` line in the first snippet to:
 
 {% highlight Python%}
 server.send_message(mail)
@@ -41,4 +41,6 @@ server.send_message(mail)
 
 And we will have a fully functional mail sender in Python.
 
-[1] [stmplib official documentation](https://docs.python.org/3/library/smtplib.html)
+***
+
+[1] [smtplib official documentation](https://docs.python.org/3/library/smtplib.html)
