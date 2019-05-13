@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Gerson]({{site.baseurl}}/assets/profile.jpg){: .profilePicture}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Computer Engineer with a Bachelor's degree from UNICAMP. I've been working professionaly with Python development and Automation Testing for about 5 years.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Python has been my preffered language since college, but recently I was also involved in Full Stack Development using Python, Node and Angular. So I can say that JS has ascended to my second language. Now I have this itch bugging me for a while to start learning about Rust... stay tuned.
