@@ -30,7 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-google-analytics: UA-140028528-1
+google_analytics: UA-140028528-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
