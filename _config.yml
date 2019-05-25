@@ -32,6 +32,9 @@ plugins:
 
 google_analytics: UA-140028528-1
 
+disqus:
+  shortname: gerson23-github-io
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
