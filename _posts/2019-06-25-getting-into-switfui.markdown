@@ -5,7 +5,7 @@ date:   2019-06-26 08:00:00 -03:00
 categories: swiftui
 ---
 
-Being inserted into Apple's environment for a while, I always felt kinda obligated to start developing for either iOS or MacOS. Though there was one problem: Objective-C. The language and XCode seemed too have a high learning curve, and as I was still on college and more focused on my research, I never dig further on it. Then, in 2014 Swift was announced and the future looked brighter.
+Being inserted into Apple's environment for a while, I always felt kinda obligated to start developing for either iOS or MacOS. Though there was one problem: Objective-C. The language and XCode seemed to have a high learning curve, and as I was still on college and more focused on my research, I never dig further on it. Then, in 2014 Swift was announced and the future looked brighter.
 
 ![Craig]({{site.baseurl}}/assets/swift-federighi.jpg)
 
@@ -59,4 +59,4 @@ I just removed the `@State` statement from line 12 and, instead of showing an er
 
 ### Moving forward
 
-I've completed the official tutorial <https://developer.apple.com/tutorials/swiftui/tutorials> on SwiftUI already, learning a lot of how Apple engineering intend us doing the application and also how to integrating with existing framework. My goal for now is to continue working if the beta versions of XCode, trying to have an app - I already have the idea - by iOS 13 official lunch later this year. Let's see.
+I've completed the official tutorial <https://developer.apple.com/tutorials/swiftui/tutorials> on SwiftUI already, learning a lot of how Apple engineering intend us doing the application and also how to integrating with existing framework. My goal for now is to continue working if the beta versions of XCode, trying to have an app - I already have the idea - by iOS 13 official launch later this year. Let's see.
