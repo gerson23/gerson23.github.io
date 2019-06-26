@@ -8,6 +8,11 @@
     display: block;
 }
 
+.centered-img {
+    display: block;
+    margin: auto;
+}
+
 .site-footer {
     background-color: #f0f0f0;
 }
