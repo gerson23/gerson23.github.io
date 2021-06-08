@@ -5,3 +5,4 @@ Gemfile.lock
 .vscode
 vendor/
 .bundle/
+.DS_Store
