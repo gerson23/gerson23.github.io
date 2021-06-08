@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fix 4K Monitor Colors on MacOS Big Sur"
-date:   2021-06-07 13:30:00 -03:00
+date:   2021-06-08 13:30:00 -03:00
 categories: macos 
 ---
 
