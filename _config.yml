@@ -27,11 +27,12 @@ show_excerpts: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
-google_analytics: UA-140028528-1
+google_analytics: G-WWF9T7XYMM
 
 disqus:
   shortname: gerson23-github-io
