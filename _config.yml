@@ -16,8 +16,7 @@
 title: Gerson Carlos 
 headline: Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a Computer Engineer writing about technical stuffs (Python, Angular, NodeJS, etc.)
-  and whatever else seems interesting.
+  I'm a Computer Engineer writing about technical stuffs and whatever else seems interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gerson23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gerson23
